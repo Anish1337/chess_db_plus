@@ -1,2 +1,2 @@
-# chess_pdb_plus
-open source opening repertoire trainer
+# chess_db_plus
+open source C++ opening repertoire trainer
